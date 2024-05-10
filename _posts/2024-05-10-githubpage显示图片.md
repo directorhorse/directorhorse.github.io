@@ -2,7 +2,7 @@
 layout: post
 title: "github与gitee合作以在githubpage显示图片"
 date:   2024-5-10
-tags: [linux]
+tags: [博客]
 comments: false
 author: directorhorse
 ---
