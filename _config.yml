@@ -7,6 +7,9 @@ name: "马指导的博客"
 # Short bio or description (displayed in the header)
 description: "学习日记记录"
 
+name: "referrer"
+
+content: "no-referrer"
 #
 # Flags below are optional
 #
